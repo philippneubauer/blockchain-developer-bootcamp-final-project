@@ -1,7 +1,7 @@
 # blockchain-developer-bootcamp-final-project
 
 
-// IDEA: Community currency for shared appartment - name ??
+// IDEA: RAFIKI - A community currency for shared appartments
 
 // use case definition and vote on price (i.e. X amount of the currency):
 e.g. 
