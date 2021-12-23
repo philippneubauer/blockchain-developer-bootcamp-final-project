@@ -1,0 +1,29 @@
+{
+  "name": "blockchain-developer-bootcamp-final-project",
+  "version": "1.0.0",
+  "description": "Project description: [general project description, description of directory structure, where to access frontend project]",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philippneubauer/blockchain-developer-bootcamp-final-project.git"
+  },
+  "author": "philippneubauer",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "bugs": {
+    "url": "https://github.com/philippneubauer/blockchain-developer-bootcamp-final-project/issues"
+  },
+  "homepage": "https://github.com/philippneubauer/blockchain-developer-bootcamp-final-project#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
