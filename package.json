@@ -24,6 +24,10 @@
   },
   "homepage": "https://github.com/philippneubauer/blockchain-developer-bootcamp-final-project#readme",
   "dependencies": {
-    "dotenv": "^10.0.0"
+    "@openzeppelin/contracts": "^4.4.1",
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "bignumber.js": "^9.0.2",
+    "dotenv": "^10.0.0",
+    "solc": "^0.8.0"
   }
 }

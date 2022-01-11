@@ -1,90 +1,12 @@
 [
   {
-    "id": 0,
-    "name": "Groceries",
-    "picture": "images/grocery-cart.jpeg",
-    "time": 20,
-    "difficulty": "medium",
-    "location": "Supermarket"
-  },
-  {
-    "id": 1,
-    "name": "Empty dishwasher",
-    "picture": "images/dishwasher.jpeg",
-    "time": 5,
-    "difficulty": "easy",
-    "location": "Kitchen"
-  },
-  {
-    "id": 2,
-    "name": "Hang clothes",
-    "picture": "images/hanger.jpeg",
-    "time": 15,
-    "difficulty": "medium",
-    "location": "Where the colthes horse fits"
-  },
-  {
-    "id": 3,
-    "name": "Wash clothes",
-    "picture": "images/washing-machine.jpeg",
-    "time": 5,
-    "difficulty": "easy",
-    "location": "Bathroom"
-  },
-  {
-    "id": 4,
-    "name": "Vacuume clean",
-    "picture": "images/vacuum-cleaner.jpeg",
-    "time": 30,
-    "difficulty": "easy",
-    "location": "Flat"
-  },
-  {
-    "id": 5,
-    "name": "Empty dust bins",
-    "picture": "images/dust-bin.jpeg",
-    "time": 8,
-    "difficulty": "easy",
-    "location": "On the street"
-  },
-  {
-    "id": 6,
-    "name": "Wet mop the floor",
-    "picture": "images/clean.jpeg",
-    "time": 30,
-    "difficulty": "medium",
-    "location": "Flat"
-  },
-  {
-    "id": 7,
-    "name": "Clean toilet(s)",
-    "picture": "images/clean.jpeg",
-    "time": 10,
-    "difficulty": "hard",
-    "location": "toilet"
-  },
-  {
-    "id": 8,
-    "name": "Clean kitchen",
-    "picture": "images/clean.jpeg",
-    "time": 15,
-    "difficulty": "medium",
-    "location": "Kitchen"
-  },
-  {
-    "id": 9,
-    "name": "Fill dishwasher",
-    "picture": "images/dishwasher.jpeg",
-    "time": 10,
-    "difficulty": "easy",
-    "location": "Kitchen"
-  },
-  {
-    "id": 10,
-    "name": "Clean fridge",
-    "picture": "images/clean.jpeg",
-    "time": 20,
-    "difficulty": "medium",
-    "location": "Kitchen"
+    "favourId": 0,
+    "status": "State.Available",
+    "description": "clean the mirror",
+    "currentPayAmount": "0.00319",
+    "location": "Bathroom",
+    "difficulty": "Medium",
+    "time": "10 minutes",
+    "imgUrl": "https://pic.onlinewebfonts.com/svg/img_573600.png"
   }
 ]
