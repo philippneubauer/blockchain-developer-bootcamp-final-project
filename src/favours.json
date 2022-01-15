@@ -1,0 +1,12 @@
+[
+  {
+    "favourId": 0,
+    "status": "State.Available",
+    "description": "clean the mirror",
+    "currentPayAmount": "0.00319",
+    "location": "Bathroom",
+    "difficulty": "Medium",
+    "time": "10 minutes",
+    "imgUrl": "https://pic.onlinewebfonts.com/svg/img_573600.png"
+  }
+]
