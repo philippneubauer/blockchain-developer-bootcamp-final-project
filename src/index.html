@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Rafiki's community favour auction</title>
-    <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script> -->
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -37,8 +37,14 @@
       <br/><br/>
       <div id="mm-current-account"></div>
 
+
+
+      <div id="show-favour"></div>
+
+
       <div id="favourRow" class="row">
-        <!-- FAVOURS LOAD HERE -->
+     
+       <!-- Read input (favours) from contract -->
       </div>
     </div>
 
@@ -49,19 +55,21 @@
             <h3 class="panel-title">TEST</h3>
           </div>
           <div class="panel-body">
-            <img alt="140x140" data-src="holder.js/140x140" class="img-rounded img-center" style="width: 100%;" data-holder-rendered="true">
+            <img alt="140x140" data-src="holder.js/140x140" class="img-rounded img-center" style="width: 50%;" data-holder-rendered="true">
             <br/><br/>
             <strong>Price</strong>: <span class="favour-payAmount">test available</span><br/>
-            <strong>Description</strong>: <span class="favour-description">test 1</span><br/>
             <strong>Location</strong>: <span class="favour-location">test Kitchen</span><br/>
             <strong>Difficulty</strong>: <span class="favour-difficulty">test Groceries</span><br/>
             <strong>Time</strong>: <span class="favour-time">test 3</span><br/><br/>
            
-            <button class="btn btn-default btn-pay" type="button" data-id="0">Pay</button>
+            <button class="btn btn-default btn-pay favour-pay-btn" type="button" data-id="0">Pay</button>
           </div>
+        </div>
         </div>
       </div>
     </div>
+
+  
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>

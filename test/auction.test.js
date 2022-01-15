@@ -1,4 +1,4 @@
-const Auction = artifacts.require(",/Auction.sol");
+const Auction = artifacts.require("./Auction.sol");
 
 const getErrorObj = (obj = {}) => {
   const txHash = Object.keys(obj)[0];
