@@ -22,6 +22,7 @@ e.g.
     Solidity - 0.8.2 (solc-js)
     Node v17.0.1
     Web3.js v1.2.7
+    Ganache v2.5.4
     
 	run the below commands:
 	1. npm install
