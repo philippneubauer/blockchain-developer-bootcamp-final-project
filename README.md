@@ -7,20 +7,17 @@ Project description:
 
 ----
 
-##Instructions:
+## Instructions:
   Installing dependencies:
     Truffle v5.4.23 (core: 5.4.23)
     Solidity - 0.8.2 (solc-js)
     Node v17.0.1
     Web3.js v1.2.7
     
-    
+    run the below commands:
     npm install
     npm install lite-server --save-dev
-    
- 
-    
-
+   
   How to run the smart contract uint tests locally:
     1) truffle compile
     2) truffle migrate
@@ -31,7 +28,8 @@ Project description:
 
 
   running on local host:3000
-    truffle migrate --network development
+  run the below commands to enter truffle dev. and add fav
+  truffle migrate --network development
     truffle console --network development
     let ra = await Auction.deployed()
     [ensure you use the owner's account as it will otherwise not work - account address accessible with ra.owner()]
