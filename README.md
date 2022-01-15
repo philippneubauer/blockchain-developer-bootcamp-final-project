@@ -5,19 +5,20 @@ Project description:
 [general project description, description of directory structure, where to access frontend project]
 
 
-////////////////////////
+----
 
-Instructions:
+##Instructions:
   Installing dependencies:
     Truffle v5.4.23 (core: 5.4.23)
     Solidity - 0.8.2 (solc-js)
     Node v17.0.1
     Web3.js v1.2.7
     
+    
     npm install
     npm install lite-server --save-dev
     
-  Acessing the project:
+ 
     
 
   How to run the smart contract uint tests locally:
