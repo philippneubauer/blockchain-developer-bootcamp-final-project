@@ -79,6 +79,6 @@ RAF - RafikiCoin:
 
 ---
 
-Screencast of walking through the project: [tba]
+Screencast of walking through the project: https://www.loom.com/share/23c1d5d67b864cc9b02209d3ef5f3b80
 
-Public Ethereum account for NFT certification transfer: []
+Public Ethereum account for NFT certification transfer: [tba shortly]
